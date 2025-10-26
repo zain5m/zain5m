@@ -14,8 +14,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zain5m&label=Profile%20Views&color=blue&style=for-the-badge" alt="zain5m" />
+  <a href="https://portfolio-sandy-three-19.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-2563EB?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
-
 ---
 
 - 🎓 Information Engineering graduate specialized in **Artificial Intelligence**  
@@ -63,8 +65,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=zain5m&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-## 🧭 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%2302569B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sandy-three-19.vercel.app/)
 
 ## 🌐 Connect with me 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100089548514253&mibextid=ZbWKwL) 
